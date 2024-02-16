@@ -1,18 +1,22 @@
-### <p align="center"> Olá, seja bem vindo! 😁</p>
 
-##
+I'm a student passionate about BackEnd development in Brazil 🇧🇷
 
-Meu nome é Davi Jr, sou formado em Engenharia Elétrica e hoje estou em transição de carreira para a área de TI. Atualmente estudo Java e estou descobrindo literalmente um mundo novo, com inumeras possibildades e caminhos. 
+About me
 
-##
+   - 💼 Graduated in Electrical Engineering
 
-#### Ferramentas e Tecnologias em estudo
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
+   - 📈 I started coding in 2024 through ADA Tech's Santander Coders program in partnership with Santander
+
+   - ❤️ I love learning Java and anything about backend development
+
+   - 💬 Ask me about anything here
+
+<br> 
+
+<div style="border:none;">
+
+| <a href="https://github.com/engdvj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=engdvj&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Davi's github stats" /></a> | <a href="https://github.com/engdvj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engdvj&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 </div>
-
-##
-
-#### Github Estatisticas 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=engdvj&show_icons=true&theme=transparent)](https://github.com/engdvj/github-readme-stats)
+<br>
